@@ -1,3 +1,2 @@
-# rastreador-de-tarefas-
-O arquivo README deve conter o URL do projeto 
-vi no roadmapsh e irei fazer. xD
+# rastreador-de-tarefas
+(https://github.com/Victorfreitaz/rastreador-de-tarefas-/blob/main/README.md?plain=1)vi no roadmapsh e irei fazer. xD
